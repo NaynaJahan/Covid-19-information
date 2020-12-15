@@ -1,2 +1,2 @@
 # Covid-19-information
- Covid 19 information of Banfladesh using flutter and API
+ Covid 19 information of Bangladesh using flutter and API
